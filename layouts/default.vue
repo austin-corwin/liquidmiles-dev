@@ -1,8 +1,17 @@
 <template>
   <div>
+    <AppHeader />
     <Nuxt />
   </div>
 </template>
+<script>
+import AppHeader from '../components/AppHeader'
+export default {
+  components: {
+    AppHeader,
+  },
+}
+</script>
 
 <style>
 html {
@@ -51,5 +60,23 @@ html {
 .button--grey:hover {
   color: #fff;
   background-color: #35495e;
+}
+
+.header {
+  display: flex;
+  justify-content: space-around;
+  background-color: #dede3b;
+}
+
+.header h1 {
+  color: white;
+  flex-grow: 1;
+  margin-left: 25px;
+}
+
+.header ul {
+  display: flex;
+  flex-grow: 1;
+  justify-content: space-around;
 }
 </style>
