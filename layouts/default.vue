@@ -65,11 +65,11 @@ html {
 .header {
   display: flex;
   justify-content: space-around;
-  background-color: #dede3b;
+  background-color: #ffc800;
 }
 
 .header h1 {
-  color: white;
+  color: black;
   flex-grow: 1;
   margin-left: 25px;
 }
@@ -79,4 +79,9 @@ html {
   flex-grow: 1;
   justify-content: space-around;
 }
+
+/* @font-face {
+  font-family: 'Poppins-Black';
+  src: url('Poppins-Black.ttf');
+} */
 </style>
