@@ -3,3 +3,22 @@
     src: local("Poppins-Black"),
      url(~assets/fonts/Poppins/Poppins-Black.ttf) format("truetype");
 }
+h1 {
+    font-family: "Poppins-Black";
+}
+
+.header h1 {
+    font-size: 1rem;
+}
+.row-hero .content h1 {
+    position: relative;
+    bottom: 150px;
+    color: white;
+    font-size: 4rem !important;
+}
+.row-hero .content .subheader {
+    position: relative;
+    bottom: 150px;
+    color: white;
+    font-size: 1.5rem !important;
+}

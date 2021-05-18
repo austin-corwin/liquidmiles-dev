@@ -30,7 +30,7 @@ export default {
   color: black;
 }
 .header-logo {
-  width: 8%;
+  width: 5%;
 }
 ul {
   list-style-type: none;

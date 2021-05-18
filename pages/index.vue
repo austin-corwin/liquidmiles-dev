@@ -1,11 +1,13 @@
 <template>
-  <div class="container">
-    <h2>Liquid Miles</h2>
-  </div>
+  <RowHero />
 </template>
 
 <script>
+import RowHero from '../components/RowHero'
 export default {
+  components: {
+    RowHero,
+  },
   head() {
     return {
       title: 'Liquid Miles',
@@ -24,7 +26,7 @@ export default {
 <style>
 .container {
   margin: 0 auto;
-  min-height: 100vh;
+  min-height: 80vh;
   display: flex;
   justify-content: center;
   align-items: center;
