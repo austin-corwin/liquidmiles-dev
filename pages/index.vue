@@ -1,9 +1,16 @@
 <template>
-  <RowHero />
+  <div>
+    <RowHero />
+    <RowBand />
+    <RowColumns />
+  </div>
 </template>
 
 <script>
 import RowHero from '../components/RowHero'
+import RowBand from '../components/RowBand'
+import RowColumns from '../components/RowColumns'
+
 export default {
   components: {
     RowHero,
@@ -26,7 +33,6 @@ export default {
 <style>
 .container {
   margin: 0 auto;
-  min-height: 80vh;
   display: flex;
   justify-content: center;
   align-items: center;
