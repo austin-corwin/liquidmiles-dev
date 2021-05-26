@@ -4,8 +4,10 @@
       <div class="row">
         <div class="col">
           <div class="content">
-            <h1>Welcome to Liquid Miles</h1>
-            <p class="subheader">A race for true athletes</p>
+            <h1>Welcome to 2021 Liquid Miles</h1>
+            <p class="subheader">
+              Come on, flip the pickle, Morty. You're not gonna regret it.
+            </p>
           </div>
         </div>
       </div>

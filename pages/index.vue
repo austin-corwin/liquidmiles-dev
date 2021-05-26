@@ -3,6 +3,7 @@
     <RowHero />
     <RowBand />
     <RowColumns />
+    <RowColumns2 />
   </div>
 </template>
 
@@ -10,10 +11,14 @@
 import RowHero from '../components/RowHero'
 import RowBand from '../components/RowBand'
 import RowColumns from '../components/RowColumns'
+import RowColumns2 from '../components/RowColumns2'
 
 export default {
   components: {
     RowHero,
+    RowBand,
+    RowColumns,
+    RowColumns2,
   },
   head() {
     return {
