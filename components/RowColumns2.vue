@@ -5,13 +5,11 @@
         <p class="h3 row-columns__content-label">Location:</p>
         <h1 class="row-columns__content-header">Loveland, CO</h1>
         <p class="row-columns__content-body">
-          Lookin' good! My name is Slip- Slippery Stair. I'll take ya down there
-          for 25 shmeckels! Man, that guy is the Red Grin Grumbold of pretending
-          he knows what's going on. Oh you agree huh? You like that Red Grin
-          Grumbold reference? Well guess what, I made him up. You really are
-          your father's children. Think for yourselves, don't be sheep. Come on,
-          flip the pickle, Morty. You're not gonna regret it. The payoff is
-          huge.
+          Return it? Are you insane? Did you hear nothing I said? Buy another
+          one, Morty! Consume, Morty! Nobody's out there shopping with this
+          fucking virus! Jesus Christ! Did the boomy-booms blow up all your
+          wordy-word books? Save it for the Semantics Dome, E.B. White. That
+          just sounds like slavery with extra steps.
         </p>
       </div>
       <div class="col-12 col-md-6 order-1 row-columns__image">
