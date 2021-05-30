@@ -31,6 +31,7 @@ export default {
 }
 .header-logo {
   width: 5%;
+  margin: 0;
 }
 ul {
   list-style-type: none;
