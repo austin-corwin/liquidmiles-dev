@@ -7,7 +7,7 @@ export default {
 
   router: {
     base: '/liquidmiles-dev/',
-  }
+  },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
