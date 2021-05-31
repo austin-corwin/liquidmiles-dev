@@ -1,7 +1,7 @@
 <template>
   <header class="header">
     <div class="logo">
-      <img class="header-logo" src="~/assets/images/liquidmiles-logo.png" />
+      <img class="header-logo" src="../assets/images/liquidmiles-logo.png" />
       <h1>Liquid Miles</h1>
     </div>
     <ul>
