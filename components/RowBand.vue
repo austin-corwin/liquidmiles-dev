@@ -18,7 +18,7 @@
           Now if you'll excuse me, I've got a quick solo adventure to go on and
           this one will not be directed by Ron Howard. It's been six hours.
           Dreams move one... one-hundredth the speed of reality, and dog time is
-          one-seventh human time.
+          one-seventh human timee.
         </p>
 
         <p>
