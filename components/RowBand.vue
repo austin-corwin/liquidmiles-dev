@@ -10,7 +10,7 @@
     <div class="container-fluid">
       <div class="row text-container">
         <img
-          src="../assets/images/LiquidMiles-logo.png"
+          src="../assets/images/liquidmiles-logo.png"
           class="img img-fluid row-band__logo"
         />
         <h1 class="row-band__title">What is Liquid Miles?</h1>
