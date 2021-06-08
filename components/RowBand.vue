@@ -9,10 +9,10 @@
     </svg>
     <div class="container-fluid">
       <div class="row text-container">
-        <img
+        <!-- <img
           src="../assets/images/liquidmiles-logo.png"
           class="img img-fluid row-band__logo"
-        />
+        /> -->
         <h1 class="row-band__title">What is Liquid Miles?</h1>
         <p>
           Now if you'll excuse me, I've got a quick solo adventure to go on and
