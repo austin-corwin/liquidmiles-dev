@@ -59,7 +59,7 @@ export default {
 
 <style scoped>
 .row-band__logo {
-  width: 15%;
+  width: 65%;
 }
 .row-band__text {
   height: 400px;
@@ -86,7 +86,7 @@ export default {
     padding: 4rem 10rem;
   }
   .row-band__logo {
-    width: 65%;
+    width: 15%;
   }
 }
 </style>
