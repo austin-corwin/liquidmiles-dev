@@ -4,6 +4,7 @@
     <RowBand />
     <RowColumns />
     <RowColumns2 />
+    <RowCards />
   </div>
 </template>
 
@@ -12,6 +13,7 @@ import RowHero from '../components/RowHero'
 import RowBand from '../components/RowBand'
 import RowColumns from '../components/RowColumns'
 import RowColumns2 from '../components/RowColumns2'
+import RowCards from '../components/RowCards'
 
 export default {
   components: {
@@ -19,6 +21,7 @@ export default {
     RowBand,
     RowColumns,
     RowColumns2,
+    RowCards,
   },
   head() {
     return {

@@ -58,6 +58,9 @@ export default {
 </script>
 
 <style scoped>
+.row-band {
+  background-color: #ffc800;
+}
 .row-band__logo {
   width: 65%;
 }
@@ -72,7 +75,7 @@ export default {
 }
 .text-container {
   /* background-color: #ffc800; */
-  background-color: #7d451b;
+  background-color: #ffc800;
   color: white;
   min-height: 400px;
   display: flex;
