@@ -60,6 +60,7 @@ export default {
 <style scoped>
 .row-band {
   background-color: #ffc800;
+  position: relative;
 }
 .row-band__logo {
   width: 65%;

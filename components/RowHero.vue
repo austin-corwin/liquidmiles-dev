@@ -28,10 +28,17 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
 .image {
   background-image: url('../assets/images/beersinrow.jpg');
   background-size: cover;
   height: 80vh;
+}
+.container {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
 }
 </style>

@@ -39,7 +39,7 @@ h1 {
 }
 .wave {
     position: absolute;
-    bottom: 0;
+    bottom: -85px;
 }
 .row-columns {
     padding: 2rem 1.5rem;
