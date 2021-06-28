@@ -68,6 +68,7 @@ li {
 .logo {
   display: flex;
   align-items: center;
+  width: 60%;
 }
 .header.sticky {
   position: fixed;
