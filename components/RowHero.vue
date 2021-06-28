@@ -29,7 +29,7 @@ export default {
 </script>
 
 <style scoped>
-.image {
+.row-hero {
   background-image: url('../assets/images/beersinrow.jpg');
   background-size: cover;
   height: 80vh;
@@ -40,5 +40,6 @@ export default {
   justify-content: center;
   align-items: center;
   text-align: center;
+  height: 40vh;
 }
 </style>

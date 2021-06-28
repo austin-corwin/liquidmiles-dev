@@ -34,16 +34,32 @@ h1 {
         font-size: 2.5rem;
     }
 }
-.content {
-    margin-bottom: 20rem;
-}
 .wave {
     position: absolute;
-    bottom: -85px;
+    bottom: -70px;
 }
 .row-columns {
-    padding: 2rem 1.5rem;
+    padding: 4rem 1.5rem;
 }
 .row-columns2 {
-    padding: 2rem 1.5rem;
+    padding-bottom: 4rem;
+}
+.wave2 {
+    bottom: -235px;
+    transform: rotate(180deg);
+    position: absolute;
+}
+@media only screen and (max-width: 583px) {
+    .wave {
+        bottom: -1px;
+    }
+    .wave2 {
+        bottom: -70px;
+    }
+    .row-columns {
+        padding: 2rem 1.5rem;
+    }
+    .container.image {
+        height: 47vh;
+    }
 }
