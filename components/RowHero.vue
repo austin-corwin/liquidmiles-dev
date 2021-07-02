@@ -8,6 +8,7 @@
             <p class="subheader">
               Come on, flip the pickle, Morty. You're not gonna regret it.
             </p>
+            <button class="btn-fill">Add to my calendar</button>
           </div>
         </div>
       </div>
