@@ -1,6 +1,6 @@
 <template>
   <section class="row-band">
-    <div class="container-fluid">
+    <div class="container-fluid no-left-pad">
       <div class="row text-container">
         <img
           class="row-band__logo"
@@ -46,18 +46,18 @@
           just bail on his life and set up shop in someone else's. I ain't
           better than shit, Jack!
         </p>
-        <svg
-          class="wave2"
-          xmlns="http://www.w3.org/2000/svg"
-          viewBox="0 0 1440 320"
-        >
-          <path
-            fill="#ffc800"
-            fill-opacity="1"
-            d="M0,192L40,186.7C80,181,160,171,240,176C320,181,400,203,480,213.3C560,224,640,224,720,202.7C800,181,880,139,960,144C1040,149,1120,203,1200,218.7C1280,235,1360,213,1400,202.7L1440,192L1440,320L1400,320C1360,320,1280,320,1200,320C1120,320,1040,320,960,320C880,320,800,320,720,320C640,320,560,320,480,320C400,320,320,320,240,320C160,320,80,320,40,320L0,320Z"
-          ></path>
-        </svg>
       </div>
+      <svg
+        class="wave2"
+        xmlns="http://www.w3.org/2000/svg"
+        viewBox="0 0 1440 320"
+      >
+        <path
+          fill="#ffc800"
+          fill-opacity="1"
+          d="M0,192L40,186.7C80,181,160,171,240,176C320,181,400,203,480,213.3C560,224,640,224,720,202.7C800,181,880,139,960,144C1040,149,1120,203,1200,218.7C1280,235,1360,213,1400,202.7L1440,192L1440,320L1400,320C1360,320,1280,320,1200,320C1120,320,1040,320,960,320C880,320,800,320,720,320C640,320,560,320,480,320C400,320,320,320,240,320C160,320,80,320,40,320L0,320Z"
+        ></path>
+      </svg>
     </div>
   </section>
 </template>
@@ -95,6 +95,7 @@ export default {
   justify-content: center;
   flex-direction: column;
   padding: 2rem 1.5rem;
+  margin-left: 0;
 }
 @media only screen and (min-width: 580px) {
   .text-container {
