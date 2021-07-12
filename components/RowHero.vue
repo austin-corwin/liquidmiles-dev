@@ -8,7 +8,12 @@
             <p class="subheader">
               Come on, flip the pickle, Morty. You're not gonna regret it.
             </p>
-            <button class="btn-fill">Add to my calendar</button>
+            <a
+              class="btn-fill"
+              target="_blank"
+              href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=M3A0MHR1c2E0MmRlY2plYjYzZWhmOGRzNzQgcTBvZnZzcjdvZmIwMGJza2N2bXZicWMwdjhAZw&amp;tmsrc=q0ofvsr7ofb00bskcvmvbqc0v8%40group.calendar.google.com"
+              >Add to My Calendar</a
+            >
           </div>
         </div>
       </div>
