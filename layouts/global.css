@@ -107,6 +107,8 @@ h1 {
     color: white;
     border: 1px solid #ffc800;
     border-radius: 5px;
+    position: relative;
+    top: 1.5rem;
 }
 .btn-fill:hover,
 .btn-fill:focus {
