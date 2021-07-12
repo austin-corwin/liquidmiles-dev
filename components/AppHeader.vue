@@ -47,6 +47,7 @@ window.addEventListener('scroll', () => {
 }
 .nav-header {
   width: 50%;
+  margin-bottom: 0;
 }
 
 ul {
