@@ -66,4 +66,25 @@ export default {
   font-weight: bold;
   text-align: left;
 }
+@media only screen and (min-width: 583px) {
+  .row-columns {
+    padding-top: 10rem;
+  }
+}
+
+@media only screen and (min-width: 1280px) {
+  .row-columns {
+    padding-top: 14rem;
+  }
+}
+@media only screen and (min-width: 2000px) {
+  .row-columns {
+    padding-top: 18rem;
+  }
+}
+@media only screen and (device-width: 768px) {
+  .row-columns {
+    padding-top: 10rem;
+  }
+}
 </style>

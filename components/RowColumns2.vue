@@ -64,4 +64,9 @@ export default {
   font-weight: bold;
   text-align: left;
 }
+@media only screen and (min-width: 1280px) {
+  .row-columns2 {
+    padding-bottom: 8rem;
+  }
+}
 </style>

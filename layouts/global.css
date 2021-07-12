@@ -39,7 +39,7 @@ h1 {
 }
 .wave {
     position: absolute;
-    bottom: -70px;
+    top: -82px;
 }
 .row-columns {
     padding: 4rem 1.5rem;
@@ -55,14 +55,46 @@ h1 {
     height: 47vh;
 }
 @media only screen and (max-width: 583px) {
-    .wave {
-        bottom: -1px;
-    }
     .row-columns {
-        padding: 2rem 1.5rem;
+        padding: 4rem 1.5rem;
     }
     .container.image {
         height: 47vh;
+    }
+}
+@media only screen and (min-width: 500px) {
+    .wave {
+        top: -102px;
+    }
+}
+@media only screen and (min-width: 650px) {
+    .wave {
+        top: -132px;
+    }
+}
+@media only screen and (min-width: 900px) {
+    .wave {
+        top: -172px;
+    }
+}
+@media only screen and (min-width: 1116px) {
+    .wave {
+        top: -200px;
+    }
+}
+@media only screen and (min-width: 1268px) {
+    .wave {
+        top: -250px;
+    }
+}
+@media only screen and (min-width: 1600px) {
+    .wave {
+        top: -350px;
+    }
+}
+@media only screen and (min-width: 2222px) {
+    .wave {
+        top: -450px;
     }
 }
 
