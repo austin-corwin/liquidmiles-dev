@@ -1,5 +1,5 @@
 <template>
-  <section id="#about" class="row-band">
+  <section class="row-band">
     <div class="container-fluid no-left-pad">
       <svg
         class="wave"
@@ -18,33 +18,11 @@
           src="../assets/images/lm-logo.png"
           alt="logo"
         />
-        <h1 class="row-band__title">What is Liquid Miles?</h1>
+        <h1 class="row-band__title">Contact Us</h1>
         <p>
-          On Saturday, September 18th, 2021 we will all gather in Loveland,
-          Colorado and compete to be the first to run 10 miles and drink 10
-          beers in just 10 hours. Impossible?
+          Stay tuned for more information on how to sign up for next years
+          Liquid Miles!
         </p>
-        <p>No. A test of a true legend? Definitely.</p>
-        <p>
-          We don’t have room to house everyone who attends, so you will need to
-          find a place to stay unless you want to camp in our backyard (there is
-          plenty of room). As this is our inaugural year, there will be a small
-          fee to participate so we can get this thing off the ground. We don’t
-          know the exact cost as of yet but we’re thinking roughly $30/person.
-        </p>
-        If interested in helping facilitate/referee instead of competing on the
-        day of this amazing event, be sure you've let us know by now so we can
-        prepare accordingly. We’ll be making history folks. Annual glory and a
-        trophy we got off of Etsy await you if you manage to beat all of the
-        other semi-drunk poor excuses for athletes. Oh and everyone that
-        participates gets this years t-shirt. We can’t wait to try out our crazy
-        idea with you! Stay tuned for more details.
-        <p>
-          In the meantime, practice your shotguns, strap on those Nike’s and
-          don’t forget to carbo load. So…. Are you in or are you out?
-        </p>
-        <p>Prost,</p>
-        <p>The Liquid Miles Founders</p>
       </div>
       <svg
         class="wave2"
@@ -63,7 +41,7 @@
 
 <script>
 export default {
-  name: 'RowBand',
+  name: 'RowContact',
 }
 </script>
 

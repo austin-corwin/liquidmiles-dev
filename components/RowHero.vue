@@ -4,10 +4,8 @@
       <div class="row">
         <div class="col">
           <div class="content">
-            <h1>Welcome to 2021 Liquid Miles</h1>
-            <p class="subheader">
-              Come on, flip the pickle, Morty. You're not gonna regret it.
-            </p>
+            <h1>Welcome to Liquid Miles</h1>
+            <p class="subheader">September 18, 2021 • Loveland, CO</p>
             <a
               class="btn-fill"
               target="_blank"

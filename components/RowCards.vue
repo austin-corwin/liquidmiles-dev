@@ -12,13 +12,14 @@
             alt="logo"
           />
           <h3 class="card-title">Half Pint</h3>
-          <p class="card-excerpt">5 miles</p>
+          <p class="card-excerpt text-uppercase">5 miles • 5 beers • 5 hours</p>
           <p class="card-body">
-            Looks like some sort of legally safe knockoff of an '80s horror
-            character with miniature swords for fingers instead of knives! Are
-            you invisible and you're gonna, like, fart on me? I'm sorry Summer,
-            your opinion means very little to me. Close. It's gonna make your
-            kidneys shut down.
+            For those of you who aren't quite prepared enough to do the full
+            pint, we've come up with a non-competitive alternative so that you
+            can still participate and get a t-shirt. You'll be expected to do 5
+            1-mile laps and drink 5 crispy boys in under 5 hours. Since this is
+            non-competitive, feel free to go at your own pace. Think of it like
+            a Sunday stroll, but with beer.
           </p>
         </div>
         <div class="col-12 col-md-5 card card-2">
@@ -28,14 +29,16 @@
             alt="logo"
           />
           <h3 class="card-title">Full Pint</h3>
-          <p class="card-excerpt">10 miles</p>
+          <p class="card-excerpt text-uppercase">
+            10 miles • 10 beers • 10 hours
+          </p>
           <p class="card-body">
-            Shut the fuck up about moonmen! Looossseeerrrrr. Holy crap, Morty,
-            run! Run for your life, Morty, run! I-I've never seen that thing
-            before in my life, Morty, I don't even know what the hell it is!
-            We-we gotta get out of here, Morty, it's gonna kill us! We're gonna
-            die, Morty! We're gonna die! Countries known for their sexually
-            aggressive men.
+            The big cheese. Are you ready for it? We are. You'll be running a
+            total of 10 1-mile laps around downtown Loveland, CO and consuming
+            10 crispy boys in the process. All of this must be completed within
+            10 hours or you will not rank on the leaderboards or potentially be
+            crowned King or Queen for this years race. Hope you've been
+            training.
           </p>
         </div>
       </div>

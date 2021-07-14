@@ -15,10 +15,10 @@
         <nuxt-link to="/" class="nav-link">Home</nuxt-link>
       </li>
       <li>
-        <nuxt-link to="#about" class="nav-link">About</nuxt-link>
+        <nuxt-link to="/about" class="nav-link">About</nuxt-link>
       </li>
       <li>
-        <nuxt-link to="#contact" class="nav-link">Contact</nuxt-link>
+        <nuxt-link to="/contact" class="nav-link">Contact</nuxt-link>
       </li>
     </ul>
   </header>
