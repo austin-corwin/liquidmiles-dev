@@ -88,7 +88,7 @@ export default {
 .text-container {
   /* background-color: #ffc800; */
   background-color: #ffc800;
-  color: white;
+  color: rgba(0, 0, 0, 1);
   min-height: 400px;
   display: flex;
   align-items: center;

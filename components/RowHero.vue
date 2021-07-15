@@ -32,6 +32,8 @@ export default {
   height: 95vh;
   display: flex;
   align-items: center;
+  background-color: gray;
+  background-blend-mode: multiply;
 }
 .container {
   margin: 0 auto;
