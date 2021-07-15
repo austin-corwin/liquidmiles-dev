@@ -29,12 +29,6 @@ export default {
   name: 'AppHeader',
 }
 </script>
-<script>
-window.addEventListener('scroll', () => {
-  const nav = document.querySelector('.header')
-  window.scrollY > 250 ? nav.classList.add('sticky') : console.log('not')
-})
-</script>
 
 <style scoped>
 * {
@@ -71,7 +65,7 @@ li {
   align-items: center;
   width: 60%;
 }
-.header.sticky {
+.header {
   position: fixed;
   z-index: 100;
   width: 100%;

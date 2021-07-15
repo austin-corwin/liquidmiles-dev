@@ -1,15 +1,15 @@
 <template>
   <div>
-    <RowBand />
+    <RowBand2 />
   </div>
 </template>
 
 <script>
-import RowBand from '../components/RowBand'
+import RowBand2 from '../components/RowBand2'
 
 export default {
   components: {
-    RowBand,
+    RowBand2,
   },
   head() {
     return {
