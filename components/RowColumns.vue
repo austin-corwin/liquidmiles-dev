@@ -5,13 +5,11 @@
         <p class="h3 row-columns__content-label">Location:</p>
         <h1 class="row-columns__content-header">Loveland, CO</h1>
         <p class="row-columns__content-body">
-          Lookin' good! My name is Slip- Slippery Stair. I'll take ya down there
-          for 25 shmeckels! Man, that guy is the Red Grin Grumbold of pretending
-          he knows what's going on. Oh you agree huh? You like that Red Grin
-          Grumbold reference? Well guess what, I made him up. You really are
-          your father's children. Think for yourselves, don't be sheep. Come on,
-          flip the pickle, Morty. You're not gonna regret it. The payoff is
-          huge.
+          The race is 10 1-mile laps around downtown loveland. Although we’re on
+          the front range and the altitude will be noticeable (if you’re not
+          used to it), there won’t be any significant elevation gain on the run
+          itself so no need to worry about having to scale mountain sides. We’re
+          crazy, but not that crazy….yet.
         </p>
       </div>
       <div class="col-12 col-md-6 row-columns__image order-1 order-sm-2">
@@ -35,7 +33,7 @@
             width="100%"
             height="100%"
             clip-path="url(#blob)"
-            xlink:href="../assets/images/downtown-loveland.jpeg"
+            xlink:href="../assets/images/route.png"
             preserveAspectRatio="xMidYMid slice"
           ></image>
         </svg>

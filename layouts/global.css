@@ -116,3 +116,10 @@ h1 {
     border-color: #ffc800;
     color: #fff;
 }
+.error {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
