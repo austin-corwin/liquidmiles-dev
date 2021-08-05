@@ -58,7 +58,7 @@ li {
   color: black;
 }
 .nav-link:hover {
-  color: yellow;
+  color: #ffff;
 }
 .logo {
   display: flex;
