@@ -7,7 +7,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'liquidmiles-dev',
+    title: 'Liquid Miles',
     htmlAttrs: {
       lang: 'en',
     },
