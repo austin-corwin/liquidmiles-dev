@@ -6,12 +6,20 @@
           <div class="content">
             <h1>Welcome to Liquid Miles</h1>
             <p class="subheader">September 18, 2021 • Loveland, CO</p>
-            <a
-              class="btn-fill"
-              target="_blank"
-              href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=M3A0MHR1c2E0MmRlY2plYjYzZWhmOGRzNzQgcTBvZnZzcjdvZmIwMGJza2N2bXZicWMwdjhAZw&amp;tmsrc=q0ofvsr7ofb00bskcvmvbqc0v8%40group.calendar.google.com"
-              >Add to My Calendar</a
-            >
+            <div class="buttons-container">
+              <a
+                class="btn-fill"
+                target="_blank"
+                href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=M3A0MHR1c2E0MmRlY2plYjYzZWhmOGRzNzQgcTBvZnZzcjdvZmIwMGJza2N2bXZicWMwdjhAZw&amp;tmsrc=q0ofvsr7ofb00bskcvmvbqc0v8%40group.calendar.google.com"
+                >Add to My Calendar</a
+              >
+              <a
+                class="btn-fill btn2"
+                target="_blank"
+                href="https://www.surveymonkey.com/r/VB7MDG9"
+                >Take the survey</a
+              >
+            </div>
           </div>
         </div>
       </div>
@@ -44,9 +52,28 @@ export default {
   height: 40vh;
   margin-bottom: 9rem;
 }
+.buttons-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  margin-top: -40px;
+}
+.buttons-container a {
+  width: 70%;
+  margin-top: 1rem;
+}
+
 @media only screen and (min-width: 583px) {
-  .container {
-    margin-bottom: 24rem;
+  .btn2 {
+    margin-left: 2rem;
+  }
+  .buttons-container {
+    flex-direction: row;
+    margin-top: auto;
+  }
+  .buttons-container a {
+    width: 30%;
   }
 }
 </style>
