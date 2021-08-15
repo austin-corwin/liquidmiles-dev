@@ -8,7 +8,7 @@
         <div class="col-12 col-md-5 card card-1">
           <img
             class="img img-fluid row-cards__image"
-            src="../assets/images/lm-logo.png"
+            src="../assets/images/halfpint.png"
             alt="logo"
           />
           <h3 class="card-title">Half Pint</h3>
@@ -25,7 +25,7 @@
         <div class="col-12 col-md-5 card card-2">
           <img
             class="img img-fluid row-cards__image"
-            src="../assets/images/lm-logo.png"
+            src="../assets/images/fullpint.png"
             alt="logo"
           />
           <h3 class="card-title">Full Pint</h3>
