@@ -6,6 +6,7 @@
           <div class="content">
             <h1>Welcome to Liquid Miles</h1>
             <p class="subheader">September 18, 2021 • Loveland, CO</p>
+            <p class="time">8:00AM - 6:00PM MDT</p>
             <div class="buttons-container">
               <a
                 class="btn-fill"
@@ -62,6 +63,10 @@ export default {
 .buttons-container a {
   width: 70%;
   margin-top: 1rem;
+}
+.time {
+  font-size: 0.8rem;
+  color: white;
 }
 
 @media only screen and (min-width: 583px) {
