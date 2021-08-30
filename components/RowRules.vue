@@ -20,46 +20,9 @@
         />
         <h1 class="row-rules__title">Rule Book</h1>
         <div class="row mt-3">
-          <div class="col-12">
-            <h2 class="rule-title">RULE 1</h2>
-            <p>You must finish all 10 beers.</p>
-          </div>
-          <div class="col-12 mt-2">
-            <h2 class="rule-title">RULE 2</h2>
-            <p>There will be a shotgun start for all participants.</p>
-          </div>
-          <div class="col-12 mt-2">
-            <h2 class="rule-title">RULE 3</h2>
-            <p>
-              Any vomit will result in disqualification from your ranking in the
-              race results.
-            </p>
-          </div>
-          <div class="col-12 mt-2">
-            <h2 class="rule-title">RULE 4</h2>
-            <p>
-              Should you wish to remove yourself from the full pint and join the
-              half pint, you are allowed to do so at any time.
-            </p>
-          </div>
-          <div class="col-12 mt-2">
-            <h2 class="rule-title">RULE 5</h2>
-            <p>
-              All drinking MUST be done at the house before running again. We
-              cannot publicly consume alcohol in the city of Loveland, CO.
-            </p>
-          </div>
-          <div class="col-12 mt-2">
-            <h2 class="rule-title">RULE 6</h2>
-            <p>
-              Participants of the full pint MUST drink 1 beer per 3 miles run.
-              This means that 4 beers need to be consumed by the time you are
-              finished running.
-            </p>
-          </div>
-          <div class="col-12 mt-2">
-            <h2 class="rule-title">RULE 7</h2>
-            <p>Be safe and HAVE FUN!</p>
+          <div v-for="item in items" :key="item.title" class="col-12 mt-2">
+            <h2 class="rule-title">{{ item.title }}</h2>
+            <p>{{ item.message }}</p>
           </div>
         </div>
       </div>
@@ -81,6 +44,48 @@
 <script>
 export default {
   name: 'RowRules',
+  data() {
+    return {
+      items: {
+        rule1: {
+          title: 'Rule 1',
+          message: 'You must finish all 10 beers.',
+        },
+        rule2: {
+          title: 'Rule 2',
+          message: 'There will be a shotgun start for all participants.',
+        },
+        rule3: {
+          title: 'Rule 3',
+          message:
+            'Any vomit will result in disqualification from your ranking in the race results.',
+        },
+        rule4: {
+          title: 'Rule 4',
+          message:
+            'Should you wish to remove yourself from the full pint and join the half pint, you are allowed to do so at any time.',
+        },
+        rule5: {
+          title: 'Rule 5',
+          message:
+            'All drinking MUST be done at the house before running again. We cannot publicly consume alcohol in the city of Loveland, CO.',
+        },
+        rule6: {
+          title: 'Rule 6',
+          message:
+            'Participants of the full pint MUST drink 1 beer per 3 miles run. This means that 4 beers need to be consumed by the time you are finished running.',
+        },
+        rule7: {
+          title: 'Rule 7',
+          message: 'You must drink the beer provided while competing.',
+        },
+        rule8: {
+          title: 'Rule 8',
+          message: 'Be safe and HAVE FUN!',
+        },
+      },
+    }
+  },
 }
 </script>
 
