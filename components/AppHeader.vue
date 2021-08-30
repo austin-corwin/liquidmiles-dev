@@ -1,19 +1,20 @@
 <template>
   <header class="header">
     <div class="logo">
-      <img
-        class="header-logo img img-fluid"
-        src="../assets/images/lm-logo.png"
-        alt="logo"
-      />
+      <nuxt-link to="/" class="image-home-link">
+        <img
+          class="header-logo img img-fluid"
+          src="../assets/images/lm-logo.png"
+          alt="logo"
+        />
+      </nuxt-link>
       <div class="header-container">
-        <h1 class="nav-header">Liquid Miles</h1>
+        <nuxt-link to="/" class="home-link">
+          <h1 class="nav-header">Liquid Miles</h1>
+        </nuxt-link>
       </div>
     </div>
     <ul>
-      <li>
-        <nuxt-link to="/" class="nav-link">Home</nuxt-link>
-      </li>
       <li>
         <nuxt-link to="/about" class="nav-link">About</nuxt-link>
       </li>
@@ -41,10 +42,19 @@ export default {
 .header-logo {
   width: 3rem;
   margin: 0;
+  margin-left: 1rem;
 }
 .nav-header {
   width: 50%;
   margin-bottom: 0;
+  margin-left: 10px;
+}
+.nav-header:hover {
+  color: white;
+}
+.home-link:hover {
+  color: white;
+  text-decoration: none;
 }
 
 ul {

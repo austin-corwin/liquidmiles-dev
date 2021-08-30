@@ -46,44 +46,50 @@ export default {
   name: 'RowRules',
   data() {
     return {
-      items: {
-        rule1: {
+      items: [
+        {
           title: 'Rule 1',
-          message: 'You must finish all 10 beers.',
+          message:
+            'You must finish all 10 beers and run all 10 miles in under 10 hours.',
         },
-        rule2: {
+        {
           title: 'Rule 2',
           message: 'There will be a shotgun start for all participants.',
         },
-        rule3: {
+        {
           title: 'Rule 3',
           message:
             'Any vomit will result in disqualification from your ranking in the race results.',
         },
-        rule4: {
+        {
           title: 'Rule 4',
           message:
             'Should you wish to remove yourself from the full pint and join the half pint, you are allowed to do so at any time.',
         },
-        rule5: {
+        {
           title: 'Rule 5',
           message:
             'All drinking MUST be done at the house before running again. We cannot publicly consume alcohol in the city of Loveland, CO.',
         },
-        rule6: {
+        {
           title: 'Rule 6',
           message:
             'Participants of the full pint MUST drink 1 beer per 3 miles run. This means that 4 beers need to be consumed by the time you are finished running.',
         },
-        rule7: {
+        {
           title: 'Rule 7',
           message: 'You must drink the beer provided while competing.',
         },
-        rule8: {
+        {
           title: 'Rule 8',
+          message:
+            'All participants MUST download the app Strava to record their runs. This is the only way we will be able to verify that each individual ran the specified amount.',
+        },
+        {
+          title: 'Rule 9',
           message: 'Be safe and HAVE FUN!',
         },
-      },
+      ],
     }
   },
 }
