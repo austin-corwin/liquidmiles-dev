@@ -68,6 +68,7 @@ export default {
 .buttons-container a {
   width: 70%;
   margin-top: 1rem;
+  z-index: 10;
 }
 .time {
   font-size: 0.8rem;
