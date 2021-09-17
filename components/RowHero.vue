@@ -6,7 +6,7 @@
           <div class="content">
             <h1>Welcome to Liquid Miles</h1>
             <p class="subheader">September 18, 2021 • Loveland, CO</p>
-            <p class="time">8:00AM - 6:00PM MDT</p>
+            <p class="time">9:00AM - 6:00PM MDT</p>
             <div class="buttons-container">
               <a
                 class="btn-fill"
@@ -14,12 +14,12 @@
                 href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=M3A0MHR1c2E0MmRlY2plYjYzZWhmOGRzNzQgcTBvZnZzcjdvZmIwMGJza2N2bXZicWMwdjhAZw&amp;tmsrc=q0ofvsr7ofb00bskcvmvbqc0v8%40group.calendar.google.com"
                 >Add to My Calendar</a
               >
-              <a
+              <!-- <a
                 class="btn-fill btn2"
                 target="_blank"
                 href="https://www.surveymonkey.com/r/VB7MDG9"
                 >Take the survey</a
-              >
+              > -->
             </div>
           </div>
         </div>

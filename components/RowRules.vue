@@ -89,6 +89,11 @@ export default {
           title: 'Rule 9',
           message: 'Be safe and HAVE FUN!',
         },
+        {
+          title: 'Rule 10',
+          message:
+            'Failure to follow any of the rules will result in disqualification.',
+        },
       ],
     }
   },
