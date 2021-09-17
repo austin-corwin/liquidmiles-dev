@@ -1,5 +1,6 @@
 <template>
   <section class="row-hero">
+    <img class="cover" src="../assets/images/beersdark.png" />
     <div class="container image">
       <div class="row">
         <div class="col">
@@ -35,9 +36,13 @@ export default {
 </script>
 
 <style scoped>
+.cover {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+}
 .row-hero {
-  background-image: url('../assets/images/beersinrow.jpg');
-  background-size: cover;
   height: 95vh;
   display: flex;
   align-items: center;
