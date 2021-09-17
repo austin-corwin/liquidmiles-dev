@@ -6,8 +6,8 @@
         <div class="col">
           <div class="content">
             <h1>Welcome to Liquid Miles</h1>
-            <p class="subheader">September 18, 2021 • Loveland, CO</p>
-            <p class="time">9:00AM - 6:00PM MDT</p>
+            <p class="subheader">Sorry we're booked. Join us next year!</p>
+            <!-- <p class="time">9:00AM - 6:00PM MDT</p> -->
             <div class="buttons-container">
               <a
                 class="btn-fill"
