@@ -1,5 +1,6 @@
 // Import the functions you need from the SDKs you need
-const { initializeApp } = require("firebase/app") ;
+const { initializeApp, applicationDefault, cert } = require('firebase-admin/app');
+const { getFirestore, Timestamp, FieldValue } = require('firebase-admin/firestore');
 // TODO: Add SDKs for Firebase products that you want to use
 // https://firebase.google.com/docs/web/setup#available-libraries
 
@@ -15,3 +16,22 @@ const firebaseConfig = {
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
+
+const db = getFirestore();
+
+const docRef = db.collection('users').doc('alovelace');
+
+docRef.set({
+  first: 'Ada',
+  last: 'Lovelace',
+  born: 1815
+});
+
+const aTuringRef = db.collection('users').doc('aturing');
+
+aTuringRef.set({
+  'first': 'Alan',
+  'middle': 'Mathison',
+  'last': 'Turing', 
+  'born': 1912
+});
