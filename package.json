@@ -15,16 +15,10 @@
     "*.{js,vue}": "eslint",
     "*.{css,vue}": "stylelint"
   },
-  "husky": {
-    "hooks": {
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
-      "pre-commit": "lint-staged"
-    }
-  },
   "dependencies": {
     "bootstrap": "^4.6.0",
     "bootstrap-vue": "^2.21.2",
-    "core-js": "^3.9.1",
+    "core-js": "^2.6.12",
     "firebase": "^9.6.3",
     "firebase-admin": "^10.0.1",
     "nuxt": "^2.15.3",
