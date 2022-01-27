@@ -4,7 +4,7 @@
       <nuxt-link to="/" class="image-home-link">
         <img
           class="header-logo img img-fluid"
-          src="../assets/images/lm-logo.png"
+          src="../src/assets/images/lm-logo.png"
           alt="logo"
         />
       </nuxt-link>

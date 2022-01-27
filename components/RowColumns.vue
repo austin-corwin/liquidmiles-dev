@@ -33,7 +33,7 @@
             width="100%"
             height="100%"
             clip-path="url(#blob)"
-            xlink:href="../assets/images/route.png"
+            xlink:href="../src/assets/images/route.png"
             preserveAspectRatio="xMidYMid slice"
           ></image>
         </svg>

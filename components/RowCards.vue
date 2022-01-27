@@ -8,7 +8,7 @@
         <div class="col-12 col-md-5 card card-1">
           <img
             class="img img-fluid row-cards__image"
-            src="../assets/images/halfpint.png"
+            src="../src/assets/images/halfpint.png"
             alt="logo"
           />
           <h3 class="card-title">Half Pint</h3>
@@ -25,7 +25,7 @@
         <div class="col-12 col-md-5 card card-2">
           <img
             class="img img-fluid row-cards__image"
-            src="../assets/images/fullpint.png"
+            src="../src/assets/images/fullpint.png"
             alt="logo"
           />
           <h3 class="card-title">Full Pint</h3>
@@ -58,7 +58,8 @@ export default {
   align-items: center;
   min-height: 85vh;
   padding: 4rem 2rem;
-  background: url('../assets/images/downtown-loveland.jpeg') no-repeat center;
+  background: url('../src/assets/images/downtown-loveland.jpeg') no-repeat
+    center;
   background-size: cover;
   background-color: rgba(0, 0, 0, 0.75);
   background-blend-mode: multiply;

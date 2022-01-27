@@ -33,7 +33,7 @@
             width="100%"
             height="100%"
             clip-path="url(#blob)"
-            xlink:href="../assets/images/downtown-loveland.jpeg"
+            xlink:href="../src/assets/images/downtown-loveland.jpeg"
             preserveAspectRatio="xMidYMid slice"
           ></image>
         </svg>

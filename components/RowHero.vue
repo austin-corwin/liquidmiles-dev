@@ -1,6 +1,6 @@
 <template>
   <section class="row-hero">
-    <img class="cover" src="../assets/images/beersdark.png" />
+    <img class="cover" src="../src/assets/images/beersdark.png" />
     <div class="container image">
       <div class="row">
         <div class="col">

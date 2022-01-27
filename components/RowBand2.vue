@@ -15,7 +15,7 @@
       <div class="row text-container">
         <img
           class="row-band2__logo"
-          src="../assets/images/lm-logo.png"
+          src="../src/assets/images/lm-logo.png"
           alt="logo"
         />
         <h1 class="row-band2__title">What is Liquid Miles?</h1>

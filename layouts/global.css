@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Poppins-Black";
-    src: local("Poppins-Black"), url(~assets/fonts/Poppins/Poppins-Black.ttf) format("truetype");
+    src: local("Poppins-Black"), url(../src/assets/fonts/Poppins/Poppins-Black.ttf) format("truetype");
 }
 h1 {
     font-family: "Poppins-Black";

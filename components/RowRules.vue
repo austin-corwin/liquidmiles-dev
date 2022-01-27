@@ -15,7 +15,7 @@
       <div class="row text-container">
         <img
           class="row-rules__logo"
-          src="../assets/images/lm-logo.png"
+          src="../src/assets/images/lm-logo.png"
           alt="logo"
         />
         <h1 class="row-rules__title">Rule Book</h1>
