@@ -23,17 +23,6 @@
           Stay tuned for more information on how to sign up for next years
           Liquid Miles!
         </p>
-        <form id="contact-form">
-          <label>First Name</label>
-          <input type="text" placeholder="First Name" />
-          <label>Last Name</label>
-          <input type="text" placeholder="Last Name" />
-          <label>Email</label>
-          <input type="text" placeholder="Your Email" />
-          <label>Phone Number</label>
-          <input type="phone" placeholder="Phone Number" />
-          <input type="submit" value="submit" />
-        </form>
       </div>
       <svg
         class="wave2"
