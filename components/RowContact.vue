@@ -21,7 +21,7 @@
         <h1 class="row-contact__title">Contact Us</h1>
         <p>
           Stay tuned for more information on how to sign up for next years
-          Liquid Miles!
+          Liquid Miles.
         </p>
       </div>
       <svg
