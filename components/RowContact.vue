@@ -22,7 +22,7 @@
         <p>
           Stay tuned for more info on how to sign up for next year Liquid Miles!
         </p>
-        <form name="contact" method="POST" data-netlify="true">
+        <form name="contact" netlify>
           <input type="hidden" name="form-name" value="contact" />
           <p>
             <label>Your Name: <input type="text" name="name" /></label>
