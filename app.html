@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html {{ HTML_ATTRS }}>
+  <head {{ HEAD_ATTRS }}>
+    {{ HEAD }}
+  </head>
+  <form name="test" netlify>
+    <input type="hidden" name="form-name" value="test" hidden />
+    <p>
+      <label>Your Name: <input type="text" name="name" /></label>
+    </p>
+    <p>
+      <label>Your Email: <input type="email" name="email" /></label>
+    </p>
+    <p>
+      <label>Message: <textarea name="message"></textarea></label>
+    </p>
+    <p><input type="submit" name="submit" value="Send" /></p>
+  </form>
+  <body {{ BODY_ATTRS }}>
+    {{ APP }}
+  </body>
+</html>
