@@ -33,8 +33,7 @@
           <p>
             <label>Message: <textarea name="message"></textarea></label>
           </p>
-          // eslint-disable-next-line vue/no-parsing-error
-          <p><input type="submit" name="submit value="Send" /></p>
+          <p><input type="submit" name="submit" value="Send" /></p>
         </form>
       </div>
       <svg
