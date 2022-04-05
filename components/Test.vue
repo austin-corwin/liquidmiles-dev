@@ -22,8 +22,8 @@
         <p>
           Stay tuned for more info on how to sign up for next year Liquid Miles!
         </p>
-        <form name="contact" method="POST" netlify>
-          <input type="hidden" name="form-name" value="contact" />
+        <form name="test" netlify>
+          <input type="hidden" name="form-name" value="test" />
           <p>
             <label>Your Name: <input type="text" name="name" /></label>
           </p>
@@ -33,9 +33,8 @@
           <p>
             <label>Message: <textarea name="message"></textarea></label>
           </p>
-          <p>
-            <button type="submit">Send</button>
-          </p>
+          // eslint-disable-next-line vue/no-parsing-error
+          <p><input type="submit" name="submit value="Send" /></p>
         </form>
       </div>
       <svg
