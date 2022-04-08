@@ -22,17 +22,21 @@
         <p>
           Stay tuned for more info on how to sign up for next year Liquid Miles!
         </p>
-        <form name="test" netlify>
-          <p>
-            <label>Your Name: <input type="text" name="name" /></label>
-          </p>
-          <p>
-            <label>Your Email: <input type="email" name="email" /></label>
-          </p>
-          <p>
-            <label>Message: <textarea name="message"></textarea></label>
-          </p>
-          <p><input type="submit" name="submit" value="Send" /></p>
+        <!-- Just fucking use formeezy, fuck netlify -->
+        <form
+          action="https://formeezy.com/api/v1/forms/62507bb9ea187d0009f3e3ad/submissions"
+          method="POST"
+          enctype="multipart/form-data"
+        >
+          <input type="name" name="name" placeholder="Enter name" required />
+          <input type="email" name="email" placeholder="Enter email" required />
+          <textarea
+            placeholder="Enter message"
+            name="message"
+            required
+          ></textarea>
+          <input name="bot-field" type="text" style="display: none" />
+          <button type="submit">Send</button>
         </form>
       </div>
       <svg
