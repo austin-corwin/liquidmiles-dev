@@ -6,7 +6,10 @@
         <div class="col">
           <div class="content">
             <h1>Welcome to Liquid Miles</h1>
-            <p class="subheader">Sorry, we're booked. Join us next year!</p>
+            <p class="subheader">
+              Interested in participating this year? Please fill out our
+              interest form.
+            </p>
             <!-- <p class="time">9:00AM - 6:00PM MDT</p> -->
             <div class="buttons-container">
               <!-- <a
@@ -21,6 +24,9 @@
                 href="https://www.surveymonkey.com/r/VB7MDG9"
                 >Take the survey</a
               > -->
+              <a class="btn-fill btn2" target="_blank" href="/contact"
+                >Register Interest</a
+              >
             </div>
           </div>
         </div>
@@ -67,12 +73,14 @@ export default {
 }
 .buttons-container a {
   width: 70%;
-  margin-top: 1rem;
   z-index: 10;
 }
 .time {
   font-size: 0.8rem;
   color: white;
+}
+.row-hero .btn-fill {
+  border: 2px solid #ffc808;
 }
 
 @media only screen and (min-width: 583px) {
