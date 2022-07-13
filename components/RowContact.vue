@@ -39,6 +39,13 @@
           />
           <input
             type="text"
+            name="raceType"
+            placeholder="Full or Half Pint?"
+            required
+          />
+          <input
+            class="w-full"
+            type="text"
             name="excitement"
             placeholder="How excited are you?"
             required
