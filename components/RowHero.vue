@@ -95,4 +95,9 @@ export default {
     width: 30%;
   }
 }
+@media only screen and (max-width: 782px) {
+  .btn2 {
+    margin-top: 1rem;
+  }
+}
 </style>
