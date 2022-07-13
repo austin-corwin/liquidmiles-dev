@@ -10,11 +10,11 @@
         <h1 class="row-contact__title">Interested in Liquid Miles 2022?</h1>
         <p class="row-contact__body">
           Register your interest below if you'd like to participate in this
-          year's Liquid Miles. The event will be held on 9/10/2022 in Fort
-          Collins, CO. (Note: Please only register if you are serious about
-          attending as prices are decided based on the amount of participants.
-          If you do not wish to run, but would like to purchase a t-shirt,
-          please continue filling out the form below.)
+          year's Liquid Miles. The event will be held on 9/10/2022 at our house
+          in Fort Collins, CO. (Note: Please only register if you are serious
+          about attending as prices are decided based on the amount of
+          participants. If you do not wish to run, but would like to purchase a
+          t-shirt, please continue filling out the form below.)
         </p>
         <!-- Just fucking use formeezy, fuck netlify -->
         <form
