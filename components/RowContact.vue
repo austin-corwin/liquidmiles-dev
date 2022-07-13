@@ -113,6 +113,7 @@ export default {
   margin: 1rem 0;
   text-align: center;
   color: #ffc800;
+  max-width: 40rem;
 }
 .row-contact .btn-fill {
   top: auto;
