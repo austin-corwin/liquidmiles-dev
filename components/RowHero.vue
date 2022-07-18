@@ -69,7 +69,7 @@ export default {
   justify-content: center;
   flex-direction: column;
   align-items: center;
-  margin-top: -40px;
+  margin-top: -20px;
 }
 .buttons-container a {
   width: 70%;
