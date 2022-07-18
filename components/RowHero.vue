@@ -12,12 +12,12 @@
             </p>
             <!-- <p class="time">9:00AM - 6:00PM MDT</p> -->
             <div class="buttons-container">
-              <!-- <a
+              <a
                 class="btn-fill"
                 target="_blank"
-                href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=M3A0MHR1c2E0MmRlY2plYjYzZWhmOGRzNzQgcTBvZnZzcjdvZmIwMGJza2N2bXZicWMwdjhAZw&amp;tmsrc=q0ofvsr7ofb00bskcvmvbqc0v8%40group.calendar.google.com"
+                href="https://calendar.google.com/event?action=TEMPLATE&tmeid=NzBxNmtiaTJiM2loNGhwanAwMnE3aTk5MGwgcTBvZnZzcjdvZmIwMGJza2N2bXZicWMwdjhAZw&tmsrc=q0ofvsr7ofb00bskcvmvbqc0v8%40group.calendar.google.com"
                 >Add to My Calendar</a
-              > -->
+              >
               <!-- <a
                 class="btn-fill btn2"
                 target="_blank"
