@@ -7,47 +7,34 @@
           src="../assets/images/lm-logo.png"
           alt="logo"
         />
-        <h1 class="row-contact__title">Interested in Liquid Miles 2022?</h1>
+        <h1 class="row-contact__title">Pay for Liquid Miles 2022</h1>
         <p class="row-contact__body">
-          Register your interest below if you'd like to participate in this
-          year's Liquid Miles. The event will be held on 9/10/2022 at our house
-          in Fort Collins, CO. (Note: Please only register if you are serious
-          about attending as prices are decided based on the amount of
-          participants. If you do not wish to run, but would like to purchase a
-          t-shirt, please continue filling out the form below.)
+          Enter info in this form to pay for your Liquid Miles ticket for 2022.
+          Payment includes your admission to the event, a t-shirt with the size
+          designated in the interest form you filled out, snacks during the day,
+          water, and beer. Any additional proceeds that are not spent on
+          event-related supplies will be donated to a local charity. A liability
+          waiver MUST be signed on the day of the event before the start. If you
+          do not wish to sign this waiver, please DO NOT purchase a ticket.
         </p>
         <!-- Just fucking use formeezy, fuck netlify -->
-        <form
-          action="https://formeezy.com/api/v1/forms/625188c124695d00090bd64c/submissions"
+        <!-- <form
+          action="https://formeezy.com/api/v1/forms/62ddbbea70c43b0009ab7663/submissions"
           method="POST"
           enctype="multipart/form-data"
         >
+          <input
+            name="price_id"
+            type="hidden"
+            value="price_1LPCcpKVkdJHraFR5ZHyfaGn, price_1LPCcpKVkdJHraFRyxdQI1cE"
+          />
           <input type="text" name="fName" placeholder="First Name" required />
           <input type="text" name="lName" placeholder="Last Name" required />
           <input type="email" name="email" placeholder="Enter email" required />
           <input
             type="text"
-            name="activity"
-            placeholder="Are you running?"
-            required
-          />
-          <input
-            type="text"
-            name="shirtSize"
-            placeholder="T-Shirt Size (sm, md, lg, xl, xxl)"
-            required
-          />
-          <input
-            type="text"
             name="raceType"
             placeholder="Full or Half Pint?"
-            required
-          />
-          <input
-            class="w-full"
-            type="text"
-            name="excitement"
-            placeholder="How excited are you?"
             required
           />
           <textarea
@@ -56,7 +43,19 @@
           ></textarea>
           <input name="bot-field" type="text" style="display: none" />
           <button class="btn-fill" type="submit">SUBMIT</button>
-        </form>
+        </form> -->
+        <div class="flex button-container">
+          <a
+            class="btn-fill btn-full"
+            href="https://buy.stripe.com/test_fZedTh0L51KQbXa9AA"
+            >Purchase Full Pint</a
+          >
+          <a
+            class="btn-fill"
+            href="https://buy.stripe.com/test_bIY16vgK31KQf9m145"
+            >Purchase Half Pint</a
+          >
+        </div>
       </div>
     </div>
   </section>
@@ -64,7 +63,7 @@
 
 <script>
 export default {
-  name: 'RowContact',
+  name: 'RowPayment',
 }
 </script>
 
@@ -72,12 +71,14 @@ export default {
 .row-contact {
   position: relative;
 }
-.row-contact button {
+.row-contact button,
+.row-contact a {
   grid-column: 1/3;
   color: #ffc800;
   border: 2px solid #ffc800;
 }
-.row-contact button:hover {
+.row-contact button:hover,
+.row-contact a:hover {
   color: white;
 }
 .row-contact input {
@@ -120,10 +121,10 @@ export default {
   margin: 1rem 0;
   text-align: center;
   color: #ffc800;
-  max-width: 40rem;
 }
 .row-contact .btn-fill {
   top: auto;
+  display: inline-flex;
 }
 .text-container {
   color: rgba(0, 0, 0, 1);
@@ -137,6 +138,7 @@ export default {
 }
 p {
   width: 100%;
+  text-align: center;
 }
 form {
   display: grid;
@@ -148,12 +150,32 @@ form {
 .w-full {
   grid-column: 1/3;
 }
+.row-contact__body {
+  margin-bottom: 1rem;
+}
+.row-contact .button-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 1rem;
+  flex-direction: column;
+}
+.row-contact .btn-full {
+  margin-bottom: 1rem;
+}
 @media only screen and (min-width: 580px) {
   .text-container {
     padding: 4rem 6rem;
   }
   .row-contact__logo {
     width: 15%;
+  }
+  .row-contact .btn-full {
+    margin-right: 1rem;
+    margin-bottom: auto;
+  }
+  .row-contact .button-container {
+    flex-direction: row;
   }
 }
 @media only screen and (min-width: 900px) {

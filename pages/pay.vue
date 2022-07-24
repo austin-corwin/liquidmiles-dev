@@ -1,15 +1,15 @@
 <template>
   <div>
-    <Test />
+    <RowPayment />
   </div>
 </template>
 
 <script>
-import Test from '../components/Test'
+import RowPayment from '../components/RowPayment'
 
 export default {
   components: {
-    Test,
+    RowPayment,
   },
   head() {
     return {

@@ -3,9 +3,9 @@
     <div class="row">
       <div class="col-12 col-md-6 row-columns__content order-2 order-sm-1">
         <p class="h3 row-columns__content-label">Location:</p>
-        <h1 class="row-columns__content-header">Loveland, CO</h1>
+        <h1 class="row-columns__content-header">Fort Collins, CO</h1>
         <p class="row-columns__content-body">
-          The race is 10 1-mile laps around downtown loveland. Although we’re on
+          The race is 10 1-mile laps around Fort Collins, CO. Although we’re on
           the front range and the altitude will be noticeable (if you’re not
           used to it), there won’t be any significant elevation gain on the run
           itself so no need to worry about having to scale mountain sides. We’re
@@ -33,7 +33,7 @@
             width="100%"
             height="100%"
             clip-path="url(#blob)"
-            xlink:href="../assets/images/route.png"
+            xlink:href="../assets/images/liquidmiles-2022.png"
             preserveAspectRatio="xMidYMid slice"
           ></image>
         </svg>
