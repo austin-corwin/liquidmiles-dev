@@ -6,10 +6,10 @@
         <div class="col">
           <div class="content">
             <h1>Welcome to Liquid Miles</h1>
-            <p class="subheader">
+            <!-- <p class="subheader">
               Interested in participating this year? Please fill out our
               interest form.
-            </p>
+            </p> -->
             <!-- <p class="time">9:00AM - 6:00PM MDT</p> -->
             <div class="buttons-container">
               <a
@@ -24,8 +24,8 @@
                 href="https://www.surveymonkey.com/r/VB7MDG9"
                 >Take the survey</a
               > -->
-              <a class="btn-fill btn2" target="_blank" href="/contact"
-                >Register Interest</a
+              <!-- <a class="btn-fill btn2" target="_blank" href="/contact"
+                >Register Interest</a -->
               >
             </div>
           </div>

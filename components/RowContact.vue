@@ -7,7 +7,7 @@
           src="../assets/images/lm-logo.png"
           alt="logo"
         />
-        <h1 class="row-contact__title">Interested in Liquid Miles 2022?</h1>
+        <!-- <h1 class="row-contact__title">Interested in Liquid Miles 2022?</h1>
         <p class="row-contact__body">
           Register your interest below if you'd like to participate in this
           year's Liquid Miles. The event will be held on 9/10/2022 at our house
@@ -15,9 +15,9 @@
           about attending as prices are decided based on the amount of
           participants. If you do not wish to run, but would like to purchase a
           t-shirt, please continue filling out the form below.)
-        </p>
+        </p> -->
         <!-- Just fucking use formeezy, fuck netlify -->
-        <form
+        <!-- <form
           action="https://formeezy.com/api/v1/forms/625188c124695d00090bd64c/submissions"
           method="POST"
           enctype="multipart/form-data"
@@ -56,7 +56,9 @@
           ></textarea>
           <input name="bot-field" type="text" style="display: none" />
           <button class="btn-fill" type="submit">SUBMIT</button>
-        </form>
+        </form> -->
+        <h1 class="row-contact__title">Contact Us</h1>
+        <p>Stay tuned for more info on how to sign up for Liquid Miles 2023!</p>
       </div>
     </div>
   </section>
