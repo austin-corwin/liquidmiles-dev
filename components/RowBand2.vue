@@ -20,7 +20,7 @@
         />
         <h1 class="row-band2__title">What is Liquid Miles?</h1>
         <p>
-          On Saturday, September 18th, 2021 we will all gather in Loveland,
+          On Saturday, September 10th, 2022 we will all gather in Fort Collins,
           Colorado and compete to be the first to run 10 miles and drink 10
           beers in just 10 hours. Impossible?
         </p>
@@ -28,9 +28,9 @@
         <p>
           We don’t have room to house everyone who attends, so you will need to
           find a place to stay unless you want to camp in our backyard (there is
-          plenty of room). As this is our inaugural year, there will be a small
-          fee to participate so we can get this thing off the ground. We don’t
-          know the exact cost as of yet but we’re thinking roughly $30/person.
+          plenty of room). As like last year, there will be a small fee to
+          participate. We don’t know the exact cost as of yet but we’re thinking
+          roughly $45/person.
         </p>
         If interested in helping facilitate/referee instead of competing on the
         day of this amazing event, be sure you've let us know by now so we can

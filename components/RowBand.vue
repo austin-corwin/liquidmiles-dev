@@ -30,7 +30,7 @@
           find a place to stay unless you want to camp in our backyard (there is
           plenty of room). As like last year, there will be a small fee to
           participate. We don’t know the exact cost as of yet but we’re thinking
-          roughly $30/person.
+          roughly $45/person.
         </p>
         If interested in helping facilitate/referee instead of competing on the
         day of this amazing event, be sure you've let us know by now so we can
