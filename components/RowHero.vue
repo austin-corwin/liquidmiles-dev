@@ -18,6 +18,7 @@
                 href="https://calendar.google.com/event?action=TEMPLATE&tmeid=NzBxNmtiaTJiM2loNGhwanAwMnE3aTk5MGwgcTBvZnZzcjdvZmIwMGJza2N2bXZicWMwdjhAZw&tmsrc=q0ofvsr7ofb00bskcvmvbqc0v8%40group.calendar.google.com"
                 >Add to My Calendar</a
               >
+
               <!-- <a
                 class="btn-fill btn2"
                 target="_blank"
@@ -26,7 +27,6 @@
               > -->
               <!-- <a class="btn-fill btn2" target="_blank" href="/contact"
                 >Register Interest</a -->
-              >
             </div>
           </div>
         </div>
