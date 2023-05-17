@@ -69,7 +69,7 @@ export default {
         {
           title: 'Rule 5',
           message:
-            'All drinking MUST be done at the house before running again. We cannot publicly consume alcohol in the city of Loveland, CO.',
+            'All drinking MUST be done at the house before running again. We cannot publicly consume alcohol in the city of Fort Collins, CO.',
         },
         {
           title: 'Rule 6',

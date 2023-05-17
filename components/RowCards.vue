@@ -34,11 +34,11 @@
           </p>
           <p class="card-body">
             The big cheese. Are you ready for it? We are. You'll be running a
-            total of 10 1-mile laps around downtown Loveland, CO and consuming
-            10 crispy boys in the process. All of this must be completed within
-            10 hours or you will not rank on the leaderboards or potentially be
-            crowned King or Queen for this years race. Hope you've been
-            training.
+            total of 10 1-mile laps around downtown Fort Collins, CO and
+            consuming consuming 10 crispy boys in the process. All of this must
+            be completed within 10 hours or you will not rank on the
+            leaderboards or potentially be crowned King or Queen for this years
+            race. Hope you've been training.
           </p>
         </div>
       </div>

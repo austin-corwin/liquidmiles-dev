@@ -15,7 +15,7 @@
               <a
                 class="btn-fill"
                 target="_blank"
-                href="https://calendar.google.com/event?action=TEMPLATE&tmeid=NzBxNmtiaTJiM2loNGhwanAwMnE3aTk5MGwgcTBvZnZzcjdvZmIwMGJza2N2bXZicWMwdjhAZw&tmsrc=q0ofvsr7ofb00bskcvmvbqc0v8%40group.calendar.google.com"
+                href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NjJuaTQ0dXV1YnVzZXFmc3RudnNjb2wyMmEgcTBvZnZzcjdvZmIwMGJza2N2bXZicWMwdjhAZw&tmsrc=q0ofvsr7ofb00bskcvmvbqc0v8%40group.calendar.google.com"
                 >Add to My Calendar</a
               >
 

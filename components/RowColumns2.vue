@@ -3,7 +3,7 @@
     <div class="row">
       <div class="col-12 col-md-6 order-2 row-columns__content">
         <p class="h3 row-columns__content-label">Location:</p>
-        <h1 class="row-columns__content-header">Loveland, CO</h1>
+        <h1 class="row-columns__content-header">Fort Collins, CO</h1>
         <p class="row-columns__content-body">
           Return it? Are you insane? Did you hear nothing I said? Buy another
           one, Morty! Consume, Morty! Nobody's out there shopping with this
