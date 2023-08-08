@@ -20,7 +20,7 @@
         />
         <h1 class="row-band__title">What is Liquid Miles?</h1>
         <p>
-          On Saturday, September 10th, 2022 we will all gather in Fort Collins,
+          On Saturday, September 30th, 2023 we will all gather in Fort Collins,
           Colorado and compete to be the first to run 10 miles and drink 10
           beers in just 10 hours. Impossible?
         </p>
@@ -30,7 +30,7 @@
           find a place to stay unless you want to camp in our backyard (there is
           plenty of room). As like last year, there will be a small fee to
           participate. We don’t know the exact cost as of yet but we’re thinking
-          roughly $45/person.
+          roughly $55/person.
         </p>
         If interested in helping facilitate/referee instead of competing on the
         day of this amazing event, be sure you've let us know by now so we can

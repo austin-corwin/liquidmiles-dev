@@ -20,7 +20,7 @@
         />
         <h1 class="row-band2__title">What is Liquid Miles?</h1>
         <p>
-          On Saturday, September 10th, 2022 we will all gather in Fort Collins,
+          On Saturday, September 30th, 2023 we will all gather in Fort Collins,
           Colorado and compete to be the first to run 10 miles and drink 10
           beers in just 10 hours. Impossible?
         </p>
