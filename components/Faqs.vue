@@ -249,6 +249,35 @@
                 </p>
               </c-accordion-panel>
             </c-accordion-item>
+            <c-accordion-item mb="4" rounded="lg">
+              <c-accordion-header
+                border-color="transparent"
+                rounded="lg"
+                :_hover="{ opacity: 0.9 }"
+              >
+                <c-box flex="1" text-align="left">
+                  Can I start after the designated shotgun start if I arrive
+                  late?
+                </c-box>
+                <c-accordion-icon />
+              </c-accordion-header>
+              <c-accordion-panel
+                pb="4"
+                bg="white"
+                mt="1"
+                rounded="lg"
+                background="transparent"
+                font-weight="normal"
+                font-family="sans-serif"
+                padding-bottom="0"
+              >
+                <p>
+                  We won't stop you, but your time will not be considered
+                  competitive. Therefore, you will not be eligible for placing
+                  in the half pint or full pint.
+                </p>
+              </c-accordion-panel>
+            </c-accordion-item>
           </c-accordion>
         </div>
       </div>
