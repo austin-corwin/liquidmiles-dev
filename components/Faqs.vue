@@ -17,6 +17,33 @@
                 :_hover="{ opacity: 0.9 }"
               >
                 <c-box flex="1" text-align="left">
+                  What time does the race start?
+                </c-box>
+                <c-accordion-icon />
+              </c-accordion-header>
+              <c-accordion-panel
+                pb="4"
+                bg="white"
+                mt="1"
+                rounded="lg"
+                background="transparent"
+                font-weight="normal"
+                font-family="sans-serif"
+                padding-bottom="0"
+              >
+                <p>
+                  Please arrive at 9:30am for check-in and the race will begin
+                  at 10:00am.
+                </p>
+              </c-accordion-panel>
+            </c-accordion-item>
+            <c-accordion-item mb="4" rounded="lg">
+              <c-accordion-header
+                border-color="transparent"
+                rounded="lg"
+                :_hover="{ opacity: 0.9 }"
+              >
+                <c-box flex="1" text-align="left">
                   Can I drink seltzers?
                 </c-box>
                 <c-accordion-icon />
