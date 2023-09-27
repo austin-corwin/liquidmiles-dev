@@ -74,7 +74,7 @@ export default {
         {
           title: 'Rule 6',
           message:
-            'Participants of the full pint MUST drink 1 beer per 3 miles run. This means that 4 beers need to be consumed by the time you are finished running.',
+            'Participants of the full pint MUST drink 1 beer per 2 miles run. This means that 6 beers need to be consumed by the time you are finished running.',
         },
         {
           title: 'Rule 7',

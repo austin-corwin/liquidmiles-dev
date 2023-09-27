@@ -22,6 +22,9 @@
         <nuxt-link to="/rules" class="nav-link">Rules</nuxt-link>
       </li>
       <li>
+        <nuxt-link to="/faqs" class="nav-link">FAQs</nuxt-link>
+      </li>
+      <li>
         <nuxt-link to="/contact" class="nav-link">Contact</nuxt-link>
       </li>
     </ul>
@@ -43,9 +46,10 @@ export default {
   width: 3rem;
   margin: 0;
   margin-left: 1rem;
+  margin-right: 1rem;
 }
 .nav-header {
-  width: 50%;
+  width: 100%;
   margin-bottom: 0;
   margin-left: 10px;
 }
@@ -60,6 +64,7 @@ export default {
 ul {
   list-style-type: none;
   margin-bottom: 0 !important;
+  padding-left: 0;
 }
 li {
   display: flex;
@@ -69,6 +74,7 @@ li {
 .nav-link {
   font-family: 'Poppins-Black', serif;
   color: black;
+  padding: 0.5rem;
 }
 .nav-link:hover {
   color: #ffff;
@@ -85,7 +91,7 @@ li {
 }
 @media only screen and (max-width: 583px) {
   .header-logo {
-    width: 5rem;
+    width: 3rem;
   }
   .header-container {
     display: none;

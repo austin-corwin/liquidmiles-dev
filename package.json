@@ -16,6 +16,10 @@
     "*.{css,vue}": "stylelint"
   },
   "dependencies": {
+    "@chakra-ui/nuxt": "^0.7.1",
+    "@chakra-ui/vue": "^0.13.1",
+    "@emotion/css": "^11.11.2",
+    "@nuxtjs/emotion": "^0.1.0",
     "bootstrap": "^4.6.0",
     "bootstrap-vue": "^2.21.2",
     "core-js": "^3.9.1",

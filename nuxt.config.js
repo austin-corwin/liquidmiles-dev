@@ -40,6 +40,8 @@ export default {
   modules: [
     // https://go.nuxtjs.dev/bootstrap
     'bootstrap-vue/nuxt',
+    '@chakra-ui/nuxt',
+    '@nuxtjs/emotion',
   ],
 
   // Build Configuration: https://go.nuxtjs.dev/config-build

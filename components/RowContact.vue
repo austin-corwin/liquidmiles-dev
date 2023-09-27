@@ -58,7 +58,10 @@
           <button class="btn-fill" type="submit">SUBMIT</button>
         </form> -->
         <h1 class="row-contact__title">Contact Us</h1>
-        <p>Stay tuned for more info on how to sign up for Liquid Miles 2023!</p>
+        <p>
+          Reach out to one of the founders if you have any questions about this
+          year's event. Hope you've been training!
+        </p>
       </div>
     </div>
   </section>

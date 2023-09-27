@@ -1,14 +1,19 @@
 <template>
   <div>
-    <AppHeader />
-    <Nuxt />
+    <CThemeProvider>
+      <AppHeader />
+      <Nuxt />
+    </CThemeProvider>
   </div>
 </template>
 <script>
+import { CThemeProvider } from '@chakra-ui/vue'
 import AppHeader from '../components/AppHeader'
+
 export default {
   components: {
     AppHeader,
+    CThemeProvider,
   },
 }
 </script>
