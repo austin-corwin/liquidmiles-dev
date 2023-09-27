@@ -138,7 +138,7 @@
                 :_hover="{ opacity: 0.9 }"
               >
                 <c-box flex="1" text-align="left">
-                  What does my ticket indclude?
+                  What does my ticket include?
                 </c-box>
                 <c-accordion-icon />
               </c-accordion-header>
