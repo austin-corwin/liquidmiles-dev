@@ -236,7 +236,6 @@ export default {
   name: 'Faqs',
 }
 </script>
-
 <style scoped>
 .row-faqs {
   display: flex;
