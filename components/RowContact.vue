@@ -16,7 +16,6 @@
           participants. If you do not wish to run, but would like to purchase a
           t-shirt, please continue filling out the form below.)
         </p> -->
-        <!-- Just fucking use formeezy, fuck netlify -->
         <!-- <form
           action="https://formeezy.com/api/v1/forms/625188c124695d00090bd64c/submissions"
           method="POST"

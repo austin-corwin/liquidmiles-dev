@@ -32,8 +32,8 @@
                 padding-bottom="0"
               >
                 <p>
-                  Please arrive at 9:30am for check-in and the race will begin
-                  at 10:00am.
+                  Please arrive at 9:00am for check-in and the race will begin
+                  at 9:30am.
                 </p>
               </c-accordion-panel>
             </c-accordion-item>
@@ -160,8 +160,8 @@
                     breakfast and lunch
                   </li>
                   <li>
-                    This year's Liquid Miles 2023 t-shirt if you chose to order
-                    one
+                    This year's Liquid Miles 2024 pint glass. T-shirts will
+                    resume next year, we were a little busy this year
                   </li>
                 </ul>
               </c-accordion-panel>
@@ -218,7 +218,8 @@
                 padding-bottom="0"
               >
                 <p>
-                  A healthy mix of Michelob Ultra, Bud Light, and Coors Light.
+                  Mostly light beer. Usually a healthy mix of Michelob Ultra,
+                  Bud Light, and Coors Light, but we switch it up sometimes.
                 </p>
               </c-accordion-panel>
             </c-accordion-item>

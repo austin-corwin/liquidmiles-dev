@@ -64,35 +64,30 @@ export default {
         {
           title: 'Rule 4',
           message:
-            'Should you wish to remove yourself from the full pint and join the half pint, you are allowed to do so at any time.',
+            'All drinking MUST be done at the house before running again. We cannot publicly consume alcohol in the city of Fort Collins, CO.',
         },
         {
           title: 'Rule 5',
           message:
-            'All drinking MUST be done at the house before running again. We cannot publicly consume alcohol in the city of Fort Collins, CO.',
+            'Participants of the full pint MUST drink 1 beer per 2 miles run. This means that 6 beers need to be consumed by the time you are finished running. Participants of the half pint MUST drink 1 beer per mile run. This means that at least 4 beers must be consumed by the time you have finished running your 5 miles.',
         },
         {
           title: 'Rule 6',
-          message:
-            'Participants of the full pint MUST drink 1 beer per 2 miles run. This means that 6 beers need to be consumed by the time you are finished running.',
-        },
-        {
-          title: 'Rule 7',
           message: 'You must drink the beer provided while competing.',
         },
         {
-          title: 'Rule 8',
+          title: 'Rule 7',
           message:
             'All participants MUST download the app Strava to record their runs. This is the only way we will be able to verify that each individual ran the specified amount.',
         },
         {
-          title: 'Rule 9',
-          message: 'Be safe and HAVE FUN!',
+          title: 'Rule 8',
+          message:
+            'All participants will be required to place their empty beer cans in their own individually provided bags for tracking purposes throughout the race.',
         },
         {
-          title: 'Rule 10',
-          message:
-            'Failure to follow any of the rules will result in disqualification.',
+          title: 'Rule 9',
+          message: 'Be safe and HAVE FUN!',
         },
       ],
     }
