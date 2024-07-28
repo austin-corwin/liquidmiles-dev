@@ -23,7 +23,8 @@
     "bootstrap": "^4.6.0",
     "bootstrap-vue": "^2.21.2",
     "core-js": "^3.9.1",
-    "nuxt": "^2.15.3"
+    "nuxt": "^2.15.3",
+    "yarn": "^1.22.22"
   },
   "devDependencies": {
     "@commitlint/cli": "^12.0.1",
