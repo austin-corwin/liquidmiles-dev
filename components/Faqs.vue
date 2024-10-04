@@ -32,8 +32,8 @@
                 padding-bottom="0"
               >
                 <p>
-                  Please arrive at 9:00am for check-in and the race will begin
-                  at 9:30am.
+                  Please arrive at 10:00am for check-in and the race will begin
+                  at 10:30am.
                 </p>
               </c-accordion-panel>
             </c-accordion-item>
